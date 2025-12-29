@@ -1,0 +1,7 @@
+{
+  "name": "Eduardo Vida Beta",
+  "description": "A personal strategic dashboard for Eduardo Pinheiro to manage his teaching career, snack delivery business, YouTube channel, and life transitions in Belém.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
